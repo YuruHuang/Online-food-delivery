@@ -1,6 +1,7 @@
 ## Online-food-delivery
 
-![Food Delivery](https://images.unsplash.com/photo-1623123095585-bfa830e3f8a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80)
+<img src="https://images.unsplash.com/photo-1623123095585-bfa830e3f8a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=687&q=80" width="50%">
+
 
 This repository contains code to collect data from UberEats, Deliveroo, and JustEat. It's written using the Python Scrapy Framework and performs the following operations:
 
